@@ -20,7 +20,7 @@ Chat App is a real-time messaging web application that allows users to send and 
 - Socket.io for real-time messaging
 - JWT Authentication
 
-# 🖼 Preview
+# Preview 🖼
 
 ![Screenshot 2025-03-25 at 10 28 46 PM](https://github.com/user-attachments/assets/b24683cc-ebdc-49f5-992a-d4bf9f202f61)
 
