@@ -9,7 +9,7 @@ Chat App is a real-time messaging web application that allows users to send and 
 - **Dark Mode** Support 🌙
 - **Responsive Design** for mobile & desktop 📱💻
 
-## Technologies Used 🏗️
+## Tech Stack 🛠️
 ### Frontend
 - React.js
 - Bootstrap / Tailwind CSS
