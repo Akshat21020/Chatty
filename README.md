@@ -1,5 +1,5 @@
 # Chatty 💬
-Chat App is a real-time messaging web application that allows users to send and receive messages seamlessly. It features user authentication, group chats, private messaging, and a responsive UI for an enhanced communication experience.
+Chatty is a real-time messaging web application that allows users to send and receive messages seamlessly. It features user authentication, group chats, private messaging, and a responsive UI for an enhanced communication experience.
 
 # Features 🚀
 - **Real-time messaging** with WebSockets ⚡
